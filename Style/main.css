@@ -1,5 +1,11 @@
-#container, body {
+body{
     background: url("/images/background-image.jpg ");
     background-size: 100%;
 }
 
+.container {
+   background-color:gray;
+   opacity: .4;
+   width: 40vw;
+   border-radius: 5px;
+} 
