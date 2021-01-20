@@ -1,11 +1,13 @@
-body{
+body {
     background: url("/images/background-image.jpg ");
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .container {
-   background-color:gray;
-   opacity: .4;
-   width: 40vw;
+   background-color:rgba(171, 183, 183, 1)
+   
    border-radius: 5px;
 } 
+
+
