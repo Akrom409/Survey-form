@@ -5,9 +5,17 @@ body {
 }
 
 .container {
-   background-color:rgba(171, 183, 183, 1)
-   
+   background-color:rgba(171, 183, 183, .3);
+   width: 40vw;
    border-radius: 5px;
+   font: 400;
+   margin-left: 25rem;
+   padding: 10px;
+   margin-top: 3vw;
+   margin-bottom: 2vw;
 } 
 
+article > h1, p { 
+    text-align: center;
+}
 
