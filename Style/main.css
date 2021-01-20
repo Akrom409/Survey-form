@@ -14,8 +14,7 @@ body {
    margin-top: 3vw;
    margin-bottom: 2vw;
 } 
-
-article > h1, p { 
+#title, #description { 
     text-align: center;
 }
 
