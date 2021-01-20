@@ -4,6 +4,7 @@ body {
     max-width: 100%;
     height: 100%;
     background-repeat: no-repeat;
+    font-family: 'Crimson Text', serif;
 }
 
 .container {
@@ -22,5 +23,6 @@ body {
 
 form {
     font-size:18px;
+    padding: 25px;
 }
 
